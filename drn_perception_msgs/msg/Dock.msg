@@ -1,3 +1,0 @@
-geometry_msgs/PoseStamped pose_stamped
-float64 dock_distance
-float64 detection_error
